@@ -1,5 +1,11 @@
 # LEETCODE Practice
 
+### Basic
+
+No.66:
+
+- 3/25 ✓
+
 ### Dynamic Programming
 
 No.70:
