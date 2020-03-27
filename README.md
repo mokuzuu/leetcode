@@ -1,17 +1,3 @@
 # LEETCODE Practice
 
-### Basic
-
-No.66:
-
-- 3/25 ✓
-
-### Dynamic Programming
-
-No.70:
-
-- 3/23 ✓
-
-No.303:
-
-- 3/25 ×
+https://docs.google.com/spreadsheets/d/1gjK39hRB_b0StiKBsu6Q8rMd9fEBq5sE9d40DkBl9YU/edit#gid=0

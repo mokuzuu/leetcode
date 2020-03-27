@@ -10,4 +10,3 @@ class Solution:
                 digits[idx] += 1
                 break
         return digits
-
