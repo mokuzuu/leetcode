@@ -4,7 +4,6 @@
 #     d = {}
 #     for idx, v in enumerate(nums):
 #         d[v] = idx
-#     print(d)
 #     for idx, v in enumerate(nums):
 #         complement = target - v
 #         if complement in d and d[complement] != idx:
@@ -33,9 +32,9 @@ class Solution:
         for idx, num in enumerate(nums):
             required = target - num
             if required in d:
-                return [d[num], idx]
+                return [d[required], idx]
             else:
-                d[name] = idx
+                d[num] = idx
 
 
 print(Solution().twoSum([2, 7, 11, 15], 9))
