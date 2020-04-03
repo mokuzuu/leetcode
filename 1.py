@@ -23,7 +23,7 @@
 #                     return [idx, idxTwo]
 
 
-# print(Solution().twoSum([-3, 4, 3, 90], 0))
+# print(Solution().twoSum(-3, 4, 3, 90], 0))
 
 # 3
 class Solution:
