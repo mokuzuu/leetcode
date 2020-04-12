@@ -7,7 +7,7 @@ class ListNode:
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        head = l3 = listNode(0)
+        head = l3 = ListNode(0)
         carry = 0
 
         while l1 or l2 or carry:
@@ -23,5 +23,5 @@ class Solution:
             if l1 or l2 or carry:
                 l3.next = ListNode(0)
                 l3 = l3.next
-        
+
         return head
